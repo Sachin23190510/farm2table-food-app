@@ -6,6 +6,7 @@ A responsive food ordering web app built with HTML, CSS, and JavaScript, featuri
 This is a responsive and interactive food ordering web application built using HTML, CSS, and vanilla JavaScript. The app allows users to browse various food categories, add items to their cart, manage item quantities, and view total pricing—all in a clean, modern UI. It includes support for both desktop and mobile views, mimicking a real-world food delivery service interface.
 
 🔧 Features:
+
 Food categories like Biryani, Paneer, Chicken, Chinese, South Indian, etc.
 
 Add-to-cart with real-time quantity and pricing updates
@@ -17,6 +18,7 @@ Address input prompt
 Simple UI using Font Awesome icons and Google Fonts
 
 📁 Tech Stack:
+
 HTML5
 
 CSS3 (with media queries)
