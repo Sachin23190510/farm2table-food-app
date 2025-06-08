@@ -3,6 +3,7 @@ A responsive food ordering web app built with HTML, CSS, and JavaScript, featuri
 
 
 🍽️ Food Ordering Web App
+
 This is a responsive and interactive food ordering web application built using HTML, CSS, and vanilla JavaScript. The app allows users to browse various food categories, add items to their cart, manage item quantities, and view total pricing—all in a clean, modern UI. It includes support for both desktop and mobile views, mimicking a real-world food delivery service interface.
 
 🔧 Features:
